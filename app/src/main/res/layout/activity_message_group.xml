@@ -1,0 +1,27 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/buttonGroup1"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:text="@string/btnGroup1"
+        android:layout_alignParentTop="true" />
+
+    <Button
+        android:id="@+id/buttonGroup2"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:text="@string/btnGroup2"
+        android:layout_below="@id/buttonGroup1" />
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/buttonGroup2">
+    </FrameLayout>
+
+</RelativeLayout>

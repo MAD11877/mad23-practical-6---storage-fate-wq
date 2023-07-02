@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314945784539",
+    "project_id": "practical-6-firebase",
+    "storage_bucket": "practical-6-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314945784539:android:56f2479b228c869c6d1afe",
+        "android_client_info": {
+          "package_name": "sg.edu.np.mad.week2t04.practical3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314945784539-f2b0bprpshgbijklk8tcb26q04o3hrj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdGoZB_0VHailmtOCVMMkfHRiGq_U9WVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314945784539-f2b0bprpshgbijklk8tcb26q04o3hrj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
